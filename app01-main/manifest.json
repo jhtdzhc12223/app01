@@ -1,9 +1,9 @@
 {
-    "name": "App_portifólio_VR",
-    "short_name": "Portifólio_VR",
+    "name": "APP_portifólio",
+    "short_name": "Portifólio",
     "start_url": "/",
     "display": "standalone",
-    "background_color": "#fff",
+    "background_color": "#fffff",
     "theme_color":"#000000",
     "description":"Esse é o app dos estudantes do 3° sistema 2025",
     "id":"portifolio-app",
@@ -22,5 +22,16 @@
             "type": "image/png"
         }
     ]
-
+    "orientation": "portrait",
+    "screnenshots": [
+        {
+        "src": "/creenshot1.png",
+        "size": "320x480"
+        "type": "image.png"
+        }
+    ],
+    "categories": ["Education"],
+    "prefer_related_applications": false,
+    "scope" "/"
+    
 }
